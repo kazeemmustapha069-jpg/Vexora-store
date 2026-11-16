@@ -27,3 +27,4 @@ This version is a **pre-launch storefront**. It does not collect payments, creat
 To accept real payments, add a secure backend and payment-provider integration. Payment secret keys must stay server-side and must never be committed to GitHub or placed in browser JavaScript. Verify payment status server-side before fulfilling an order.
 
 Game names are used only to identify intended catalogue categories. VEXORA is an independent storefront and is not affiliated with or endorsed by the game publishers.
+VEXORA Store deployment update.
